@@ -1,6 +1,6 @@
 # is-native
 
-inherit from an object
+detect if a method is a native one
 
 [![browser support](https://ci.testling.com/bloodyowl/is-native.png)](https://ci.testling.com/bloodyowl/is-native)
 
